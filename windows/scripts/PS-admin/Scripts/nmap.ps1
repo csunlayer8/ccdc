@@ -1,0 +1,1 @@
+nmap $global:CIDRN -sV -sC -O
