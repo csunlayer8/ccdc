@@ -1,0 +1,23 @@
+Local,Remote,Other
+0a - Unblock files
+1a - Ping machine in domain,1b - Retrieve machines in network and ping and nmap and save list,quit - Exits script
+2a - Password reset,,? - Displays commands 
+3a - GP Update Pods,,?? - Definitions
+4a - Restart Pods
+5a - Set expiration date for all users in specific OU 
+6a - Get rid of expiration date for specific users
+7a - Set email address for all users
+8a - Add AD users automatically
+66a(CCDC) - Add Trusted Hosts
+100(CCDC) - New PowerShell Sessions
+100a(CCDC) - Enable Essentials (WinRM)(RDP)(Sec Policy),100b(CCDC) - Install chocolatey
+100ab(CCDC) - Diable PS Remoting on all machines across domain
+101a(CCDC) - Get inventory (IP MAC & OS),101b(CCDC)(BROKEN) - Get inventory (IP MAC & OS) Remotely
+102a(CCDC) - Shuffle AD creds
+103a(CCDC) - Turn SMBv1 Off,103b(CCDC) Turn SMBv1 Off Remotely
+104a(CCDC) - User monitors
+105a(CCDC)(BROKEN?) - Auto install sysmon
+108a(CCDC) - Add no password expire user for ldap binding (only do once)
+111(CCDC) - Receive all Jobs
+200a(CCDC) - AIO
+1000a(CCDC) - Enter PSSessions,1000b(CCDC) - Copy Script to Session
